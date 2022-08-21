@@ -86,17 +86,3 @@ var Useranswer = ""
         
         fs.writeFileSync("./README.md", readMeString)
     })
-    // function to write README file
-    // function writeToFile(fileName, data) {
-    // }
-    // TODO: Create a function to write README file
-    // function writeToFile(fileName, data) {}
-    
-    // function to initialize program
-    // function init() {
-    // // TODO: Create a function to initialize app
-    // // function init() {}
-    
-    // }
-    // function call to initialize program
-    // Function call to initialize app
