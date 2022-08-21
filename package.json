@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeanuRivers/Readme-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeanuRivers/Readme-Generator/issues"
+  },
+  "homepage": "https://github.com/KeanuRivers/Readme-Generator#readme",
+  "dependencies": {
+    "inquirer": "^9.1.0"
+  }
+}
