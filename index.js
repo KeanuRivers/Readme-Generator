@@ -7,11 +7,6 @@ var Useranswer = ""
     inquirer.prompt ([
         {
             name: "github",
-            message: "Enter github Username",
-            type: "input",
-        },
-        {
-            name: "github",
             message: "Enter GitHub Username",
             type: "input"
         },
